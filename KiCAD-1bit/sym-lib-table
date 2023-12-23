@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TMS9918A")(type "Legacy")(uri "C:/Users/kuninet/git/KZ80-TMS9918A-DRAM/KiCAD/TMS9918A.lib")(options "")(descr ""))
+  (lib (name "DRAM")(type "KiCad")(uri "C:/Users/kuninet/git/KZ80-TMS9918A-DRAM/KiCAD/DRAM.kicad_sym")(options "")(descr ""))
+)

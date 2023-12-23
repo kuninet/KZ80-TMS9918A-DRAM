@@ -8,7 +8,14 @@
 * 以下のリポジトリからFORKしたかたちで、SRAM版からDRAM版へ変更したリポジトリです。
   * https://github.com/kuninet/KZ80-TMS9918A
 
+
+### 4464 64kbit x 4bit DRAM版
+
 ![](image/KZ80-TMS9918A.jpg)
+
+### MB8118 16kbit x 1bit DRAM版
+
+![](KiCAD-1bit/KZ80-TMS9918A-DRAM-1bit.jpg)
 
 ## ライセンス
 * 本プロジェクトのデータはMITライセンスのもとで公開します。
