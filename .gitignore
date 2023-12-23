@@ -1,2 +1,5 @@
 .DS_Store
 *-backups
+*.back
+.DS_Store
+\#*\#

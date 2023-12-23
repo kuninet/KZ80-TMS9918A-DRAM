@@ -3,7 +3,7 @@
     (property "Reference" "U" (at 3.81 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "4464-64k-4bit-DRAM" (at 12.7 -19.05 0)
+    (property "Value" "4416-16k-4bit-DRAM" (at 12.7 -19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at -2.54 -2.54 0)
