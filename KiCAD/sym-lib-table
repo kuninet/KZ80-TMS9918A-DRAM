@@ -1,5 +1,7 @@
 (sym_lib_table
+  (version 7)
   (lib (name "TMS9918A")(type "Legacy")(uri "${KIPRJMOD}/TMS9918A.lib")(options "")(descr ""))
   (lib (name "HM62256")(type "Legacy")(uri "${KIPRJMOD}/HM62256.lib")(options "")(descr ""))
   (lib (name "DRAM")(type "KiCad")(uri "${KIPRJMOD}/DRAM.kicad_sym")(options "")(descr ""))
+  (lib (name "DRAM4464-1")(type "KiCad")(uri "${KIPRJMOD}/DRAM4464-1.kicad_sym")(options "")(descr ""))
 )
