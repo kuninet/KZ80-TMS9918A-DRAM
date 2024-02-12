@@ -14,7 +14,7 @@
 
 #### 部品表
 
-[KiCAD\KZ80-TMS9918A.csv](KiCAD\KZ80-TMS9918A.csv)
+[KiCAD/KZ80-TMS9918A.csv](KiCAD/KZ80-TMS9918A.csv)
 
 ### MB8118 16kbit x 1bit DRAM版
 
@@ -24,7 +24,7 @@
 
 #### 部品表
 
-[KiCAD-1bit\KZ80-TMS9918A-DRAM-1bit.csv](KiCAD-1bit\KZ80-TMS9918A-DRAM-1bit.csv)
+[KiCAD-1bit/KZ80-TMS9918A-DRAM-1bit.csv](KiCAD-1bit/KZ80-TMS9918A-DRAM-1bit.csv)
 
 ## ライセンス
 * 本プロジェクトのデータはMITライセンスのもとで公開します。
